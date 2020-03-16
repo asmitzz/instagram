@@ -13,14 +13,7 @@ color:azure;
 text-align:center;
 font-size:20px;
 }
-h3{
-padding: 20px 0px;
-border-radius: 10px;
-background-color:#001f3f;
-color:azure;
-text-align:center;
-font-size:20px;
-}
+
 
 .circle
 {
@@ -49,6 +42,7 @@ background-size:cover;
     padding: 15px;
     margin-bottom: 10px;
    border-style: outset;
+border-radius:20px;
      box-shadow: #000000 2px 5px 15px;
     text-shadow: white -1px -2px 0.3em; 
 }.text{
