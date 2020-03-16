@@ -6,27 +6,27 @@ body{
     text-transform:capitalize ;
 }
 h1{
-padding: 4px 0px;
+padding: 20px 0px;
 border-radius:5px;
 background-color:slategray;
 color:azure;
 text-align:center;
 font-size:20px;
 }
-h3{
-padding: 4px 0px;
-border-radius:5px;
-background-color:#001f3f;
-color:azure;
-text-align:center;
-text-transform:capitalize;
 
-}
+
+
+
+
+
+
+
+
 .circle{border-radius:100%;}
 footer{text-align:right;}
 input{height:50px;
 width:310px;}
-button{background-color: slategray;
+button{background-color: black;
 color:white;
 height:30px;
 width:75px;
