@@ -4,7 +4,7 @@ body{
     background-size:cover;
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
     text-transform:capitalize ;
-    width:550px;
+    
 }
 @keyframes flash2
 {
@@ -35,10 +35,7 @@ font-size:20px;
   border-radius:100px;
  }
 
-.profile-back{
-    
-border-radius: 100px;
-}
+
 footer{
     
     text-align:right;
@@ -57,12 +54,12 @@ width:80px;
 .section {
 color:azure;
 background-size:cover;
- background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+ 
     padding: 15px;
     margin-bottom: 10px;
    border-style: outset;
     border-radius: 10px;
-    width:550px;
+    
     text-shadow:-1px -2px 0.3rem skyblue; 
 }
 .text{
