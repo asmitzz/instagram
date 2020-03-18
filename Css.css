@@ -1,7 +1,6 @@
 body{
-
+background-color:brown;
 }
-
 h2{
 font-size:50px;
 }
@@ -17,6 +16,7 @@ div{
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
     text-transform:capitalize ;
      width:1900px;
+    color:azure;
     
 }
 @keyframes flash2
