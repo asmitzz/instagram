@@ -5,7 +5,7 @@ h2{
 font-size:50px;
 }
 p{
-font-size:40px;
+font-size:60px;
 }
 div{
     font-family:monospace;
@@ -74,7 +74,7 @@ background-size:cover;
 }
 .text{
     text-align:left;
- font-size:50px;
+ 
    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
 background-size:cover;
     color:azure;
