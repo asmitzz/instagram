@@ -84,7 +84,7 @@ a{
     color:azure;
 }
 
-.section:hover{
+.h1:hover{
     background-color:#001f3f;
 color:white;}
 animation: flash2 5s linear infinite;
