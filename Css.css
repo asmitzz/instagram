@@ -96,6 +96,10 @@ a{
 footer{
 font-size:30px;
 }
+input{
+height:40px;
+width:1500px;
+}
 .h1:hover{
     background-color:#001f3f;
 color:white;}
