@@ -1,6 +1,10 @@
 body{
 
 }
+.heading{
+width:2000px;
+}
+
 div{
     font-family:monospace;
     background-repeat:no-repeat ;
