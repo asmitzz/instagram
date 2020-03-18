@@ -93,7 +93,9 @@ a{
     text-decoration: none;
     color:azure;
 }
-
+footer{
+font-size:30px;
+}
 .h1:hover{
     background-color:#001f3f;
 color:white;}
