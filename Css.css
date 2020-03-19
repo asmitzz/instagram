@@ -1,21 +1,26 @@
 body{
 background-color:brown;
-}
+    overflow:scroll;
+    }
 h2{
 font-size:50px;
 }
 p{
 font-size:60px;
     margin-top: 100px;
+    
 }
+
 div{
-    margin-top: 100px;
+    margin-top:100px ;
+   margin-bottom:100px;
     font-family:monospace;
     background-repeat:no-repeat ;
     background-size:cover;
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
     text-transform:capitalize ;
      width:1900px;
+   border-radius:100px 100px 30px 30px;
     color:azure;
     
 }
@@ -39,6 +44,7 @@ background-color: #330033;
 color:azure;
 text-align:center;
 font-size:80px;
+   border-radius:100px 100px 0px 0px;
  
 }
 li{
@@ -48,9 +54,25 @@ font-size:60px;
 
 .circle
 {
-  border-radius:100px;
-    margin-top: 30px;
- }
+  border-radius:300px;
+    margin-top: 70px;
+  box-shadow: 15px 15px 20px 10px black,15px 15px 20px 10px brown;
+}
+
+nav{
+    padding: 50px 0;
+    min-width: 500px; 
+}
+nav ul { 
+    
+       border-style:inset;
+    border-color: chocolate;
+   box-shadow: inset 10px 10px 5px orange inset -10px -10px 5px orange;
+}
+nav ul li {
+    font-size: 50px;
+    display: inline-block;
+}
 
 
 footer{
@@ -68,29 +90,11 @@ height:150px;
 width:210px;
 }
 
-.section {
-color:azure;
-background-size:cover;
- 
-    padding: 15px;
-    margin-bottom: 10px;
-   border-style: outset;
-   border-color:orange;
-    
-    text-shadow:-1px -2px 0.3rem skyblue; 
-}
-.text{
-    text-align:left;
- 
-   background-image: url("https://www.sololearn.com/Uploads/header.jpg");
-background-size:cover;
-    color:azure;
- 
-    
-    margin-bottom:5px;
-}
+
+
 .q{border:none;
 border-radius:10px;
+    
  }
 a{
     text-decoration: none;
@@ -100,8 +104,8 @@ footer{
 font-size:30px;
 }
 input{
-height:200px;
-width:1500px;
+height:300px;
+width:1900px;
 }
 h1:hover{
     background-color:#000000;
